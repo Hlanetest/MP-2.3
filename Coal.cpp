@@ -26,3 +26,5 @@ int main() {
     cout << SURCHARGE << "\n";
     return 0;
 }
+http://www.cplusplus.com/reference/string/string/getline/
+http://www.cplusplus.com/reference/string/string/substr/
